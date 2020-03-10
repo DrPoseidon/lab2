@@ -20,6 +20,7 @@ button{
     color: black;
     padding: 3px;
     outline: none;
+    border-radius: 5px;
 }
 
 button:hover{
@@ -33,6 +34,15 @@ input[type="text"]{
     padding: 3px;
     text-align: center;
     outline: none;
+    border-radius: 5px;
+}
+
+.vertexInput{
+    width: 50px;
+}
+
+.inputOfNumbers{
+    width: 150px;
 }
 
 body{
